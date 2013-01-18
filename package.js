@@ -3,7 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function(api){
-	api.use('jquery', 'client');
 	api.add_files([
 		'font-awesome/font/fontawesome-webfont.eot',
 		'font-awesome/font/FontAwesome.otf',
