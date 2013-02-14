@@ -4,8 +4,5 @@
 	"homepage": "https://github.com/nate-strauser/meteor-font-awesome",
 	"author": "Nate Strauser",
 	"version": "0.1.3",
-	"git": "https://github.com/nate-strauser/meteor-font-awesome.git",
-	"packages": {
-		"bootstrap": "*"
-    }
+	"git": "https://github.com/nate-strauser/meteor-font-awesome.git"
 }
