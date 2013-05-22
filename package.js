@@ -11,5 +11,5 @@ Package.on_use(function (api){
 	api.add_files('lib/font-awesome/css/font-awesome.css', 'client');
 	
 	//font path override
-	api.add_files('path-override.css', 'client');
+	//api.add_files('path-override.css', 'client');
 });
