@@ -3,6 +3,6 @@
 	"description": "Latest version of Font-Awesome, packaged for Meteor",
 	"homepage": "https://github.com/nate-strauser/meteor-font-awesome",
 	"author": "Nate Strauser",
-	"version": "0.1.6",
+	"version": "3.2.0",
 	"git": "https://github.com/nate-strauser/meteor-font-awesome.git"
 }
