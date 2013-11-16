@@ -8,6 +8,12 @@ Meteorite smart package for font awesome
 1. `npm install -g meteorite` (if not already installed)
 2. `mrt add font-awesome`
 
+## 4.0 Upgrade Issues
+be aware of the class name changes
+
+see [this](http://fortawesome.github.io/Font-Awesome/whats-new/) and [this](https://github.com/FortAwesome/Font-Awesome/wiki/Upgrading-from-3.2.1-to-4)
+
+
 ## 3.1 Upgrade Issues
 you may get this when running `mrt update`
 
