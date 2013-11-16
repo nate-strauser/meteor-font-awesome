@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "font-awesome": {
+        "path": ".."
+      }
+    },
+    "packages": {
+      "font-awesome": {
+        "path": ".."
+      }
+    }
+  }
+}

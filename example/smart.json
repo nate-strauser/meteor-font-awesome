@@ -1,0 +1,7 @@
+{
+  "packages": {
+    "font-awesome": {
+    	"path":"../"
+    }
+  }
+}
