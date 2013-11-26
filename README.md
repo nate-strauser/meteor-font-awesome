@@ -8,6 +8,13 @@ Meteorite smart package for font awesome
 1. `npm install -g meteorite` (if not already installed)
 2. `mrt add font-awesome`
 
+## Browser policy
+if you are using the `browser-policy` package, you'll need to add this line to a file in your `/server/` directory to allow the browser to load from the cdn
+```
+BrowserPolicy.content.allowOriginForAll('*.bootstrapcdn.com');
+```
+
+
 ## 4.0 Upgrade Issues
 be aware of the class name changes
 
