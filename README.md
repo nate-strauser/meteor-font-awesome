@@ -1,7 +1,9 @@
-font-awesome
-===================
+Font Awesome from CDN
+=====================
 
-Meteor package for [Font-Awesome](http://fortawesome.github.com/Font-Awesome/).
+Load [Font-Awesome](http://fortawesome.github.com/Font-Awesome/) from a CDN.
+
+If you want to include Font Awesome in your build, use the [official Font Awesome package](https://atmospherejs.com/fortawesome/fontawesome).
 
 
 ## Browser policy
