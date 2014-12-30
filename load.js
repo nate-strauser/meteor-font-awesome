@@ -4,6 +4,6 @@ var head = document.getElementsByTagName('head')[0];
 var style = document.createElement('link');
 style.type = 'text/css';
 style.rel = "stylesheet";
-style.href = '//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css';
+style.href = '//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css';
 
 head.appendChild(style);
