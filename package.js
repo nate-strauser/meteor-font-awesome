@@ -1,7 +1,7 @@
 Package.describe({
   name: "natestrauser:font-awesome",
   summary: "Latest version Font-Awesome loaded via CDN",
-  version: "4.5.0",
+  version: "4.6.0",
   git: "https://github.com/nate-strauser/meteor-font-awesome.git"
 });
 
