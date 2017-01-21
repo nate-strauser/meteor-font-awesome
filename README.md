@@ -10,6 +10,7 @@ If you want to include Font Awesome in your build, use the [official Font Awesom
 if you are using the `browser-policy` package, you'll need to add this line to a file in your `/server/` directory to allow the browser to load from the cdn
 ```
 BrowserPolicy.content.allowOriginForAll('*.bootstrapcdn.com');
+BrowserPolicy.content.allowFontDataUrl('*.bootstrapcdn.com');
 ```
 
 
